@@ -8,6 +8,6 @@
  
 - 居中widht maring,float，position,有各自的居中。
 
- ![alt text] (https://github.com/cloudXA/thePage-of-Tabao/blob/master/%E7%AE%80%E4%BB%8B/taobao.png);
+ ![alt text](https://github.com/cloudXA/thePage-of-Tabao/blob/master/%E7%AE%80%E4%BB%8B/taobao.png)
  
  
